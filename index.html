@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>AdMob Configuration</title>
+    </head>
+    <body>
+        <h1>AdMob Configuration: add-aps.txt</h1>
+        <h2>File Content:</h2>
+        <pre id="file-content"></pre>
+
+        <script>
+            fetch('add-aps.txt')
+                .then(response => response.text())
+                .then(data => {
+                    document.getElementById('file-content').textContent = data;
+                })
+                .catch(error => {
+                    console.error('Error loading file:', error);
+                });
+        </script>
+    </body>
+</html>
