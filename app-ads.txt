@@ -3,7 +3,7 @@
 ##############################################
 
 google.com, pub-1165868533288337, DIRECT, f08c47fec0942fa0
-google.com, pub-9217312058058058, DIRECT, f08c47fec0942fa0
+
 
 
 facebook.com, 3822508371411671, RESELLER, c3e20eee3f780d68
@@ -22,9 +22,7 @@ bidmachine.io, 257632, DIRECT
 
 #Replace the Publisher_ID below with your Admob Publisher ID
 
-google.com,  
-
-pub-9217312058058058, DIRECT, f08c47fec0942fa0
+google.com,  pub-9217312058058058, DIRECT, f08c47fec0942fa0
 
 #Meta-Audience
 
