@@ -2,34 +2,24 @@
 #данные для Money Maker
 ##############################################
 
-google.com, pub-9217312058058058, DIRECT, f08c47fec0942fa0
-
-
 
 facebook.com, 3822508371411671, RESELLER, c3e20eee3f780d68
 
-#Updated 21st NOVEMBER
-
 #Appodeal
-
 appodeal.com, 257632, DIRECT
 
 #BidMachine
-
 bidmachine.io, 257632, DIRECT
 
 #AdMob
+google.com, pub-9217312058058058, DIRECT, f08c47fec0942fa0
 
-#Replace the Publisher_ID below with your Admob Publisher ID
-
+google.com, pub-1165868533288337, DIRECT, f08c47fec0942fa0
 
 #Meta-Audience
-
-#Replace the Business_ID below with your Meta Business ID
-
 facebook.com,1398924138184303,RESELLER,c3e20eee3f780d68
 
-#Add other networks if applicable
+
 
 #Resellers
 
